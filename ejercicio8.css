@@ -1,0 +1,15 @@
+.btn1 {
+    padding: 50px;
+    border: 10px;
+    background-color: navy;
+}
+
+.btn2 {
+    padding: 50px;
+    border: 10px;
+    background-color: navy;
+}
+
+button.opacity {
+    opacity: 5%;
+}
